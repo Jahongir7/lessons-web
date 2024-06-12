@@ -1,0 +1,14 @@
+.wrapper {
+    height: 50vh; 
+    width: 100%;
+    /* */
+}
+p {
+    text-align: center;
+    color: white;
+    font-size: large;
+}
+
+.text{
+    color: yellow;
+}
