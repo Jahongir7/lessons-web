@@ -1,0 +1,10 @@
+body{
+    background-color: cadetblue;
+}
+
+
+.box{
+    max-width: 400px;
+    height: 200px;
+    background-color: #0000ff;
+}
