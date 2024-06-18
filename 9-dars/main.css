@@ -1,0 +1,117 @@
+/* html, body{
+    padding: 0;
+    margin: 0;
+}
+
+
+ul li {
+    display: inline-block;
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 30px;
+    width: 100px;
+}
+ul{
+    padding: 0;
+}
+span{
+    background-color: red;
+    color: white;
+    display: block;
+}
+
+.box{
+    height: 300px;
+    padding: 10px;
+    border: 2px solid yellowgreen;
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    margin: 50px 0 0 30px;
+}
+.box>p{
+    text-align: justify;
+    vertical-align: middle;
+    font-size: 20px;
+    display: inline-block;
+} */
+/* .container {
+    border: 1px solid black;
+    padding: 10px;
+    height: 300px;
+}
+.container span {
+    display: inline-block;
+    vertical-align: bottom;
+}
+.box-1 {
+    background-color: red;
+}
+.box-2 {
+    background-color: blue;
+}
+.box-3 {
+    background-color: yellow;
+} */
+ /* .biography img{
+    float: right;
+    margin: 20px;
+ }
+ .biography h1{
+    text-align: center;
+    text-decoration: underline;
+ }
+
+ .biography{
+    padding: 20px;
+ }
+ .biography a{
+    text-decoration: none;
+    color: black;
+    cursor:text
+ } */
+  body{
+    background-color: black;
+    color: white;
+  }
+  input:focus{
+    outline: none;
+    border: 1px solid red;
+  }
+  button{
+    background-color: greenyellow;
+    color: white;
+    padding: 5px;
+    border: 1px solid greenyellow;
+  }
+  button:hover{
+    background-color: white;
+    color: greenyellow;
+    cursor: pointer;
+  }
+ ul li:first-child{
+    color: red;
+  }
+  ul li:last-child{
+    color: yellow;
+  }
+  ul li:nth-child(5) {
+    color: aqua;
+  }
+  a:active{
+    color: green;
+  }
+  h5:hover{
+    transform: scale(1.2);
+    color: white;
+  }
+  .quti{
+    width: 200px;
+    height: 200px;
+    border: 1px solid white;
+  }
+  .quti:hover{
+    transform: scale(1.1);
+  }
